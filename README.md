@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+<!-- 
+- 🔭 I’m currently working on ... Azure 104 and Bicep
+- 🌱 I’m currently learning ... from John Savill
 **lagg300/lagg300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
